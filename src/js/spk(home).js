@@ -1,3 +1,3 @@
 function backjs() {
-		this.window.location = "/DevilTemplateMenu/index.html";
+		this.window.location = "/DevilMenuTemplate/index.html";
     }
