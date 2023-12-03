@@ -1,1 +1,2 @@
-# DevilWasHere.github.io
+# nothing here
+just stuff I host for projects
