@@ -1,8 +1,6 @@
 # MenuTemplate
-Just a practice upload Ig
+This Menu is made of animations
 
 
-
-# Releases
-Idk when Ill do that...<br>
-Update: Made an app
+# Link to Live Menu
+https://devilwashere.github.io/DevilMenuTemplate/index.html
