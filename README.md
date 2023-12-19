@@ -1,5 +1,6 @@
 # MenuTemplate
-This Menu is made of animations
+Made by Aiden Erickson
+- This Menu is made of animations
 
 
 # Link to Live Menu
